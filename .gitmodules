@@ -1,0 +1,3 @@
+[submodule "reaper-sdk"]
+	path = reaper-sdk
+	url = https://github.com/justinfrankel/reaper-sdk
